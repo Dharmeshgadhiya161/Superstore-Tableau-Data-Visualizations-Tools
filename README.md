@@ -10,6 +10,7 @@ In this project, you will be working with a dataset from the Superstore, aiming 
 Skills Required:
 
 ●	Proficiency in data visualisation concepts and techniques.
+
 ●	Familiarity with Tableau or a similar data visualisation tool.
 ●	Strong analytical and problem-solving skills.
 ●	Ability to choose appropriate charts based on data characteristics and question requirements.
